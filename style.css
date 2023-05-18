@@ -22,7 +22,7 @@ nav{position:absolute;
 
 nav li{
     display: inline;
-    margin: 00015;
+    margin: 0 0 0 15;
 }
 
 nav a{
