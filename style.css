@@ -1,5 +1,5 @@
 header{
-    background-color: darkgray;
+    background-color: rgb(54, 54, 54);
     padding: 20px 0;
 }
 
@@ -20,7 +20,7 @@ nav li{
 
 nav a{
     text-transform: uppercase;
-    color: red;
+    color: rgb(255, 0, 0);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
