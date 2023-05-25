@@ -71,5 +71,17 @@ nav a:hover{
     font-weight: bold;
     margin-top: 10px;
 }
-
-
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 40px 0;
+}
+.copyrigth{
+    color: darkgrey;
+    font-size: 13px;
+    padding: 40px 0;
+}
+main{
+    width: 940px;
+    margin: 0 auto;
+}
