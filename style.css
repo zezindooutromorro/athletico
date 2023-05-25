@@ -27,14 +27,14 @@ nav li{
 
 nav {
     text-transform: uppercase;
-    color: rgb(255, 0, 0);
+    color: red;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
 }
 
 nav a:hover{
-    color: red;
+    color: black
     text-decoration:underline ;
     
 }
