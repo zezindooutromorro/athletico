@@ -54,7 +54,13 @@ nav a:hover{
     border: 2px solid ;
     border: 10px;
 }
-.historia li: hover{
-
+.historia li:hover{
 }
+.historia li:active{
+    border-color: red;
+}
+.historia li:hover h2{
+    font-size: 34px;
+}
+.historia
 
